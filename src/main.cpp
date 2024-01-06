@@ -232,5 +232,5 @@ void loop() {
         conSMS = " ";
         conNum = " ";
       }
+  }
 }
-
